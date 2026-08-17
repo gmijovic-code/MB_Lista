@@ -3,6 +3,6 @@
 https://stream.iradio.pro/proxy/radiomuzickoblago?mp=/stream
 #EXTINF:-1,MB 2 Narodna
 https://stream.zeno.fm/bpfcznjizu6tv
-#EXTINF:-1,MB 3 Izvorna
+#EXTINF:-1,MB 3 Proba
 #EXTVLCOPT:network-caching=1000
 https://stream.okplus.rs/listen/boem/radio.mp3
